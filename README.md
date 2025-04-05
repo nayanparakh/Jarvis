@@ -12,10 +12,10 @@ A voice-powered AI assistant inspired by Iron Man's legendary digital butler. Bu
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React + Tailwind CSS
-- **Voice Output:** ElevenLabs API
+- **Frontend:** React + Tailwind CSS (Lovable)
+- **Voice Output:** ElevenLabs API (Voice)
 - **Webhook Processing:** Custom backend endpoint (N8N cloud)
-- **UI Animations:** Framer Motion
+- **UI Animations:** Framer Motion (Lovable)
 
 ## 📸 Screenshots
 
