@@ -1,6 +1,6 @@
 # 🤖 Jarvis AI Assistant
 
-A voice-powered AI assistant inspired by Iron Man's legendary digital butler. Built with React, Tailwind CSS, ElevenLabs, and webhook integration — Jarvis listens, thinks, and responds like your personal futuristic sidekick.
+A voice-powered AI assistant inspired by Iron Man's legendary digital butler. Built with React, Tailwind CSS, ElevenLabs, and webhook integration n8n platform — Jarvis listens, thinks, and responds like your personal futuristic sidekick.
 
 ## 🚀 Features
 
